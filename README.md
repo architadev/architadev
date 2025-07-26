@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Archita
 
+---
+
 🎓 I'm a BCA student passionate about technology and data.  
 📊 I'm currently exploring the world of *Data Analysis* — from Excel and SQL to Python, Pandas, and Power BI.  
 📈 I love turning raw data into actionable insights and building smart, meaningful visualizations.  
@@ -7,6 +9,8 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:architadev940@gmail.com) 
+
+---
 
 
 # 💻 Tech Stack:
