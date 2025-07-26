@@ -8,8 +8,9 @@
 🌱 Currently building projects to strengthen my data skills and prepare for a Data Analyst role.
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:architadev940@gmail.com) 
 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:architadev940@gmail.com)  
+*Email:* architadev940@gmail.com
 ---
 
 
